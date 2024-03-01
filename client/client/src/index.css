@@ -1,0 +1,73 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+  
+  body {
+  background-color: white;
+  }
+  
+  h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 60px;
+    color: blue;
+
+  }
+  
+
+  .app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* justify-content: center; */
+  
+  }
+  .btn{
+    background-color: #159977;
+    color: black;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    cursor: pointer;
+    padding: 15px 20px;
+    border: none;
+    font-size: medium;
+  
+  
+    
+  }
+
+  .Aarogya-modal{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .container{
+    background-color: azure;
+    border-radius: 12px;
+    width: 60%;
+    padding: 20px;
+  }
+  /* .logoname1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 60px;
+    color: blue;
+
+  }
+  .logoname2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 60px;
+    color: green;
+
+
+  } */
+
+  .response{
+    background-color: #343541;
+    color: #ececf1;
+    border-radius: 12px;
+    margin: 20px 0;
+    padding: 20px;
+    white-space: pre-wrap;
+  }
