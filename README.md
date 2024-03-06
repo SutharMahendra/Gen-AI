@@ -12,3 +12,37 @@ For the backend, we've employed Node.js to handle server-side logic and API requ
 Overall, our project combines cutting-edge technologies to deliver a user-friendly chatbot experience. By integrating ChatGPT Turbo 3.5 with React, Vite, and Node.js, we've created a powerful yet lightweight solution for conversational AI interactions.
 
 ![chatgpt-Project - Copy](https://github.com/SutharMahendra/Gen-AI/assets/144376149/361697bd-7def-4ccf-aa57-02c20ada2dfb)
+
+## Installation
+
+Follow these steps to set up and run the project on your local machine:
+
+1. **Navigate to the Server Directory:**
+    ```bash
+    cd server
+    ```
+
+2. **Start the Server:**
+    ```bash
+    npm start
+    ```
+
+3. **Return to the Main Directory:**
+    ```bash
+    cd ..
+    ```
+
+4. **Navigate to the Client Directory:**
+    ```bash
+    cd client
+    ```
+
+5. **Run the Development Server:**
+    ```bash
+    npm run dev
+    ```
+
+6. **Access the Application:**
+    Once the development server is running, a link will be generated. Open your web browser and follow the provided link to access the application.
+
+Feel free to add more sections like "Usage," "Contributing," or "License" based on your project's needs.
