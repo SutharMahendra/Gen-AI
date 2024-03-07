@@ -1,5 +1,5 @@
 # Gen-AI
-# ChatGPT-lite
+# ChatGPT-Lite
 
 
 
